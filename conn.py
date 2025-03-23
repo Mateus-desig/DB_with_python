@@ -35,7 +35,7 @@ if value:
     # Calculando media.
     average = sum(all_vall) / len(all_vall)
 
-    print(f"A média das despesas é: R${round(average,2)}")
+    print(f"A média das despesas é: R${round(average, 2)}")
 
 else: print("Nenhum valor encontrado ou não e numerico.")
 
